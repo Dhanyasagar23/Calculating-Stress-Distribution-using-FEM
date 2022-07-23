@@ -1,0 +1,1 @@
+# Calculating-Stress-Distribution-using-FEM
